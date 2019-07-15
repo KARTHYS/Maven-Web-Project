@@ -81,13 +81,13 @@
 
 	<distributionManagement>
 	    <repository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <id>karthik</id>
+	      <name>myrepoRelease</name>
 	      <url>http://ec2-13-126-228-158.ap-south-1.compute.amazonaws.com:8081/repository/myrepoRelease/</url>
 	    </repository>
 	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <id>karthik</id>
+	      <name>myrepoSNAP</name>
 	      <url>http://ec2-13-126-228-158.ap-south-1.compute.amazonaws.com:8081/repository/myrepoSNAP/</url>
 	    </snapshotRepository>
 	</distributionManagement>
